@@ -18,7 +18,6 @@ adventure/root
 │ └>adventure/whos_the_pillager_now
 └>adventure/sleep_in_bed
 │ └>adventure/adventuring_time
-│ └>adventure/adventuring_time
 │ └>adventure/play_jukebox_in_meadows
 │ └>adventure/walk_on_powder_snow_with_leather_boots
 └>adventure/spyglass_at_parrot
@@ -44,7 +43,6 @@ husbandry/root
 └>husbandry/allay_deliver_item_to_player
 │ └>husbandry/allay_deliver_cake_to_note_block
 └>husbandry/breed_an_animal
-│ └>husbandry/bred_all_animals
 │ └>husbandry/bred_all_animals
 └>husbandry/fishy_business
 │ └>husbandry/tactical_fishing
