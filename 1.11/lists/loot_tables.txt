@@ -12,7 +12,6 @@ minecraft:chests/stronghold_crossing
 minecraft:chests/stronghold_library
 minecraft:chests/village_blacksmith
 minecraft:chests/woodland_mansion
-minecraft:empty
 minecraft:entities/bat
 minecraft:entities/blaze
 minecraft:entities/cave_spider
