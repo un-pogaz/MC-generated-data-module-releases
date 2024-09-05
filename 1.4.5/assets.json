@@ -1,6 +1,7 @@
 {
   "assets": "pre-1.6",
   "asset_index": "https://launchermeta.mojang.com/v1/packages/4759bad2824e419da9db32861fcdc3a274336532/pre-1.6.json",
+  "map_to_resources": true,
   "objects": {
     "READ_ME_I_AM_VERY_IMPORTANT": {
       "hash": "0d000710b71ca9aafabd8f587768431d0b560b32",
